@@ -2,7 +2,7 @@
 
 Responsive multi-section landing page for a modern artisan bakery, developed from a Figma design using semantic HTML5, SASS/SCSS, and JavaScript.
 
-🔗 **[Live Demo] ()**
+🔗 **[Live Demo] (https://maya28may.github.io/modern-bakery-landing/)**
 
 ## 🛠 Tech Stack
 - **HTML5:** Semantic markup
